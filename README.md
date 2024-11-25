@@ -1,5 +1,5 @@
-# Car-Insurance-Prediction-using-ML
-Predicting wether a customer will accept car insurance policy using ML algorithms
+# Real-Estate-Property-Prices-Prediction-using-ML
+Predicting real estate property prices of atleast 100 houses, using ML algorithms
 
 
 The project underscores the significance of **data analysis and strategic planning** in gaining a competitive advantage, particularly in the real estate industry. The primary goal is to develop **predictive models** tailored for the real estate sector, specifically for forecasting property sale prices.
